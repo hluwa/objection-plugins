@@ -1,0 +1,3 @@
+[submodule "FRIDA-DEXDump"]
+	path = FRIDA-DEXDump
+	url = https://github.com/hluwa/FRIDA-DEXDump
