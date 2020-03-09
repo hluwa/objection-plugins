@@ -1,3 +1,6 @@
 [submodule "FRIDA-DEXDump"]
 	path = FRIDA-DEXDump
 	url = https://github.com/hluwa/FRIDA-DEXDump
+[submodule "Wallbreaker"]
+	path = Wallbreaker
+	url = https://github.com/hluwa/Wallbreaker
