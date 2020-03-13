@@ -15,4 +15,4 @@ plugin ...
 | -- | -- | -- | -- |
 | FRIDA-DEXDump | dexdump | hluwa | search and dump dex on memory |
 | Wallbreaker | wallbreaker | hluwa | help to understand java memory world, eg: classdump |
-| watch_events | watch_event | hluwa | trace event listeners of view |
+| watch_events | watch_event | hluwa | trace events listener |
