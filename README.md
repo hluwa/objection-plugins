@@ -3,10 +3,18 @@
 # usage
 
 ```
-git clone https://github.com/hluwa/objection-plugins ~/.objection/plugins
+git clone https://github.com/hluwa/objection-plugins ~/.objection/plugins  --recurse-submodules
 objection -g com.app.name explore -P ~/.objection/plugins
 plugin wallbreaker android.content.ContextProvider
 plugin ...
+```
+
+# update
+
+```
+cd ~/.objection/plugins
+git pull
+git submodule foreach git pull origin master
 ```
 
 # Descriptions
